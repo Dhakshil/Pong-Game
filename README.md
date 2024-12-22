@@ -10,7 +10,8 @@ Welcome to the Pong Game! This is a classic implementation of the Pong game usin
 - Retro graphics and gameplay
 
 ## Getting Started
-###Screenshots
+
+### Started
 ![image](https://github.com/user-attachments/assets/f2fba24e-68dd-4664-938e-5e6c7190ec1f)
 
 ![image](https://github.com/user-attachments/assets/606480df-0cb3-4681-b685-03341f786853)
